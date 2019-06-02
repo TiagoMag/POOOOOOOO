@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CarroGasolina
+comment0.text=\r\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ classe\ CarroGasolina\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (n\u00FAmero\ de\ vers\u00E3o\ ou\ data)\r\n
+comment1.params=
+comment1.target=CarroGasolina()
+comment1.text=\r\n\ COnstrutor\ para\ objetos\ da\ classe\ CarroGasolina\r\n
+comment2.params=vel_med\ precobase\ consumo\ matricula\ nif\ historial\ classificacao\ localizacao\ autonomia\ autonomiaAtual\ uso\ marca\ tipo\ total_faturado
+comment2.target=CarroGasolina(double,\ double,\ double,\ java.lang.String,\ int,\ java.util.Map,\ int,\ java.awt.geom.Point2D.Double,\ double,\ double,\ int,\ java.lang.String,\ java.lang.String,\ double)
+comment3.params=c
+comment3.target=CarroGasolina(CarroGasolina)
+comment4.params=
+comment4.target=CarroGasolina\ clone()
+numComments=5

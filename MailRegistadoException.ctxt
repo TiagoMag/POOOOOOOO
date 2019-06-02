@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MailRegistadoException
+comment1.params=
+comment1.target=MailRegistadoException()
+comment2.params=message
+comment2.target=MailRegistadoException(java.lang.String)
+numComments=3

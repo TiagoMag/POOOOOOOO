@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=CarroEletrico
+comment1.params=
+comment1.target=CarroEletrico()
+comment2.params=vel_med\ precobase\ consumo\ matricula\ nif\ historial\ classificacao\ localizacao\ autonomia\ autonomiaAtual\ uso\ marca\ tipo\ total_faturado
+comment2.target=CarroEletrico(double,\ double,\ double,\ java.lang.String,\ int,\ java.util.Map,\ int,\ java.awt.geom.Point2D.Double,\ double,\ double,\ int,\ java.lang.String,\ java.lang.String,\ double)
+comment3.params=c
+comment3.target=CarroEletrico(CarroEletrico)
+comment4.params=
+comment4.target=CarroEletrico\ clone()
+numComments=5
