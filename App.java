@@ -52,16 +52,16 @@ public class App implements Serializable
     //carregaDados();
     carregaMenus();
     lerDadosGravados();
-     try{
+     
+    
+    do{
+        principal.executa();
+        try{
         dados.gravar();
     }
     catch(IOException e){
         System.out.println("Falha gravar estado");
     }
-    
-    do{
-        principal.executa();
-        
         
         switch(principal.getOp()){
         case 1:

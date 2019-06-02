@@ -1,4 +1,5 @@
-public class LoginErradoException extends Exception 
+import java.io.Serializable;
+public class LoginErradoException extends Exception implements Serializable
 {
 
  

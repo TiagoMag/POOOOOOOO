@@ -1,4 +1,5 @@
-public class MailRegistadoException extends Exception
+import java.io.Serializable;
+public class MailRegistadoException extends Exception implements Serializable
 {
    public MailRegistadoException(){	
 		super();
